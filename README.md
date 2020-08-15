@@ -19,4 +19,4 @@ which will start a new development server on localhost:3000.
 
 ## Ideas for improvement
 
-[] Add option to choose team colors for easier matching between cards and cyclists
+- Add option to choose team colors for easier matching between cards and cyclists
